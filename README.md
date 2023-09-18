@@ -2,6 +2,10 @@
 
 The app has been implemented using the Gradio python library. The app execution file is named as deployment.ipynb. Once the code in this file is run, the app interface can be interacted either in the jupyter notebook or in the browser using the local host address that is given by Gradio after running the code.
 
+
+
+
+
 # Description of Files in the Repository:
 
 •	datasets.ipynb – The jupyter notebook used to analyse and pre-process the three datasets used in this project.
@@ -16,3 +20,9 @@ The app has been implemented using the Gradio python library. The app execution 
 •	final dataset – Folder where the pre-processed datasets are stored.
 •	screenplay datasets – Folder where the scrapped screenplays csv and json file and the emotion classified scene dataset is stored.
 •	harry potter and the sorcerer’s stone.txt – File used to test the analyse screenplay function.
+
+the classifier file and the screenplay data file was more than 100 mb so it couldn't be uploaded
+hence a google drive link to download the file has been given to upload it.
+classifier model file link - https://drive.google.com/drive/folders/1FtilXQgv2zrHMsk2HE8uD-h9CjrSScoI?usp=drive_link
+
+screenplay datasets - 
