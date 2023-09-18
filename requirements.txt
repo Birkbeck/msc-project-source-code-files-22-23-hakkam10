@@ -1,0 +1,12 @@
+pandas
+transformers
+numpy
+scikit-learn
+matplotlib
+seaborn
+Levenshtein
+gradio
+langdetect
+Bio
+scipy
+jaro
